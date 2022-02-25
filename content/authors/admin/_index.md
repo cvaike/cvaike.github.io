@@ -1,9 +1,8 @@
 ---
-bio: My research interests include political uncertainty, trade policy, short selling and stock markets.
-
+bio: My research interests are on topics related to financial and economic effects of politically induced uncertainty.
 education:
   courses:
-  - course: PhD in Finance (ongoing)
+  - course: PhD Student (ongoing)
     institution: National Yang Ming Chiao Tung University, Taiwan
     year: 2024 (Expected)
   - course: MSc. in Finance
@@ -18,9 +17,10 @@ email: "chris.vaike@sinu.edu.sb"
 highlight_name: false
 
 interests:
+- Corporate Finance
 - Academic Research
 - Data Analysis
-- DIY Projects
+- Others - DIY Off-grid Projects
 
 organizations:
 - name: Solomon Islands National University
@@ -49,6 +49,6 @@ superuser: true
 title: Chris Vaike
 ---
 
-I'm an experienced Lecturer in Finance with a demonstrated history of conducting academic research in the field of corporate finance. I'm particularly skilled in Stata, Econometrics, Research, and Teaching. I'm also currently pursuing a PhD (Ongoing) focused in Finance at National Yang Ming Chiao Tung University. 
+I'm an experienced Lecturer in Finance with a demonstrated history of conducting academic research in the field of corporate finance. I've created this personal website in response to the Covid-19 community transmissions in Honiara and other provinces. This platform aims to provide an online option for my students who may have contracted the virus or are geographically isolated and are unable to be physically present in the classroom. Here students will get access to all my lecturers and teaching materials they need in order to successfully complete a course.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/MyResume_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.

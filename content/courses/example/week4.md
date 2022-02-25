@@ -2,7 +2,8 @@
 title: CH3-Financial Statement Reporting & Ratio Analysis (cont.)
 linktitle: Week 4
 lastmod: "2022-02-24"
-draft: false  
+draft: true  
+active: false  
 toc: false  
 type: book  
 weight: 40

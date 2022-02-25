@@ -2,7 +2,8 @@
 title: CH6-Stock Valuation
 linktitle: Week 7
 lastmod: "2022-02-24"
-draft: false  
+draft: true  
+active: false  
 toc: false  
 type: book  
 weight: 40

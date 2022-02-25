@@ -2,7 +2,8 @@
 title: CH2-Financial Market Environment
 linktitle: Week 2
 lastmod: "2022-02-24"
-draft: false  
+draft: true  
+active: false
 toc: false  
 type: book  
 weight: 30
