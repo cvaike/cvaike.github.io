@@ -13,5 +13,3 @@ weight: 20
 ## Objectives
 
 ## Lecture Slides
-
-<a href="https://www.emmanuelteitelbaum.com/slides/psc1001_1.1/#/" target="_blank" rel="noopener" title="Slides">CH1 Slides</a>
