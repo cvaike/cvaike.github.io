@@ -7,7 +7,7 @@ summary: An introduction to the field of corporate finance for future financial 
 toc: false
 draft: false
 menu:
-  psc1001:
+  FIN701:
     name: Overview
     weight: 10
 type: book
