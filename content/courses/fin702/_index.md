@@ -1,7 +1,7 @@
 ---
 date: "2022-02-24"
 lastmod: "2022-02-24"
-title: "FIN701: Corporate Financial Mangement 1"
+title: "FIN701: Corporate Financial Management 1"
 linktitle: Overview
 summary: An introduction to the field of corporate finance for future financial managers. Required course for Bachelor of Accounting students.  
 toc: false
