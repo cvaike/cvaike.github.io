@@ -35,7 +35,7 @@ Students in this course should strive to meet the following objectives:
 2) Major Assignment 2 (15%) 
 3) Midterm Test (15%)
 4) Tutorial Participation & Attendance (5%) 
-5) Final EXam (50%)
+5) Final Exam (50%)
 
 
 {{< cta cta_text="BEGIN THE COURSE" cta_link="week1" >}}
